@@ -27,7 +27,8 @@ Cheers!
 5. Python
 ```
 ### First page  .
-![Screenshot](.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/112087084/190119664-c43d584f-36ee-413e-a8f6-551ad68b7dd5.png)
+
  
  
 ### You can Book a table here.
